@@ -1,0 +1,17 @@
+# Site settings
+title: SchrodingersK1t
+email: 
+description: 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://SchrodingersK1t.github.io" # the base hostname & protocol for your site
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+timezone: UTC
+encoding: utf-8
+relative_permalinks: false
+permalink: 
+excerpt_separator: ""
